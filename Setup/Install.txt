@@ -1,16 +1,23 @@
 Following are the steps you need to follow to install the pf-UBC software on your computer.
--Download the Setup file from Github
- Setup/
+-Download the Setup file from 
+https://drive.google.com/file/d/1N9LtpXiWD6xlUDvaHWp7-J17Mn5eHgwM/view?usp=drive_link
+
 -Open the download folder where this setup file is downloaded.  
+
 -Run the PF-UBC_setup file by right clicking on it and run as administrator
 (You will see a blue window appearing and warning you that the software is not an authorized application. But this is obvious because I have made the software from scratch. Just click on "More info" and then click on "Run anyway". This is important because the software need admin access to install the tools and libraries required to run the simulation)
+
 -An installation window will appear.
+
 -1st screen will allow you to choose where you want to install your software.
 (This is also the place where all the results files will be generated)
 By default, it will choose this folder "C:\Program Files (x86)\PF-UBC" to install. I highly recommend to install the software in this folder. 
 (Note: In theory, you can install it anywhere but I found that you can get some warnings in the software. You can ignore those warning and still run the simulations. But warning can be distracting)
+
 -Make sure you have internet access before hitting the install button on this window. 
+
 -Once the installation process is done, a shortcut will be created on the desktop. Look for "pf-UBC_Launcher" shortcut  on desktop anytime you want to run the software.
+
 -You can find more about the software package and its usage on the following webpage
 https://ashishdhole.github.io/pfubc/index.html
 
